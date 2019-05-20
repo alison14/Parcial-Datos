@@ -41,3 +41,5 @@ class Nodo {
         this.siguiente = siguiente;
     }
 }
+
+http://edu4java.com/es/game/game6.html linl para lo de objetos
